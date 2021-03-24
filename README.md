@@ -20,7 +20,8 @@
             height: 400px;
             background-color: brown;
             position: relative;
-            left: 12%;
+            left:auto;
+            right:auto;
             margin-top: 20px;
             margin-bottom: 20px;
         }
@@ -182,7 +183,6 @@
 
 }
 
-// setTimeout(animation,5000);
             
     </script>
     
